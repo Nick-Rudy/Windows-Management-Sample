@@ -16,7 +16,6 @@ The [Get-LastUser](https://github.com/Nick-Rudy/Windows-Management-Sample/blob/m
 
 ```PowerShell
 Read-Host '(Input Format) <SAMPLE-SOURCE-PATH>\Remote-Hosts.txt'
-(Input Format) <SAMPLE-SOURCE-PATH>\Remote-Hosts.txt: 
 ```
 
 ### Remote GPUpdate
