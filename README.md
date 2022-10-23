@@ -158,7 +158,7 @@ Similar to the `Get-ProfileVerification` module this module checks the value for
 
 ## Current Progress
 
-Although this process is still in testing with each module to ensure all functionality I welcome any and all advice to help simplify this process. My hopes is that with the current files I have uploaded I can demonstrate my experience with PowerShell, and at the same time hopefully help others in their efforts with these templates to automate some of these simpler tasks. I will be updating this repository regularly as it progresses. If you have any questions or comments feel free to start a discussion in this repository!
+Although this process is still in testing with each module to ensure all functionality I welcome any and all advice to help simplify this process. My hopes is that with the current files I have uploaded I can demonstrate my experience with PowerShell, and at the same time hopefully help others in their efforts with these templates to automate some of these simpler tasks. I will be updating this repository regularly as it progresses. If you have any questions or comments feel free to start a [discussion](https://github.com/Nick-Rudy/Windows-Management-Sample/discussions) in this repository!
 
 
 #### License
