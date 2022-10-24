@@ -13,7 +13,7 @@
 Function Get-ATrainingVerification {
     <#
         .SYNOPSIS
-            This function checks for ATCTS profile verfication.
+            This function checks for ATCTS profile verification.
 
         .DESCRIPTION
             This function references an exported CSV report from ATCTS to
